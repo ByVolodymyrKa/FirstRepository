@@ -1,4 +1,4 @@
-*.class
+*.java
 target/
-*iml
+*.iml
 .idea/
