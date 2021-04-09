@@ -1,4 +1,0 @@
-*.java
-target/
-*.iml
-.idea/
